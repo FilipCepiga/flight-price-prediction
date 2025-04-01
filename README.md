@@ -1,2 +1,24 @@
-# flight-price-prediction
-This project uses machine learning to predict flight ticket prices based on various factors such as departure time, stops, flight duration, and more. The goal is to build a model that can help in forecasting the price of tickets for specific routes, providing valuable insights for travelers and airlines.
+# Flight Price Prediction Project
+
+This project aims to predict flight prices based on various features such as departure time, stops, class, etc.
+
+## Requirements
+- Python 3.6+
+- pandas
+- scikit-learn
+- matplotlib
+- seaborn
+
+## How to Run
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/flight-price-prediction.git
+   ```
+2. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
+   ```
+3. Run the script:
+   ```bash
+   python main.py
+   ```
